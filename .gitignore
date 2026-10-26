@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.build/
+*.dist/
+*.onefile-build/
+drop/
+loot/
+winsys.json
+*.spec
