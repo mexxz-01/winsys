@@ -1,0 +1,5 @@
+pynput
+psutil
+pillow
+opencv-python
+nuitka
